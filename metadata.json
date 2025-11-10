@@ -1,0 +1,8 @@
+{
+  "name": "TravelIQ",
+  "description": "TravelIQ is the intelligent AI supplier network for the travel trade, giving agents instant access to verified information from the world's leading travel brands.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
